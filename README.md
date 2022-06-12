@@ -105,11 +105,11 @@ W trakcie działania na potrzeby użytkownika oddana jest możliwość przełąc
 
 8. Widok menu wyświetlającego aktualnie odtwarzaną stację.
 
-![](assets/Aspose.Words.b25d37fe-05f3-400c-ba85-a1c5a7f26502.003.png)
+![](assets/menu_station.png)
 
 9. Widok menu wyświetlającego aktualny poziom głośności.
 
-![](assets/Aspose.Words.b25d37fe-05f3-400c-ba85-a1c5a7f26502.003.png)
+![](assets/menu_volume.png)
 
 # 9. Budowa i wgranie projektu na ESP32
 W celu wgrania projektu na urządzenie ESP32 zalecamy użycie ArduinoIDE, wraz z opisanymi w opracowaniu bibliotekami. 
